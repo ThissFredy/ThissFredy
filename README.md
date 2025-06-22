@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ¡Hola a todos! 👋 Soy [Tu Nombre]
+
+### Un apasionado desarrollador [Tu Especialidad] de [Tu País] 🇨🇴
+
+<p align="center">
+  <img src="URL_de_tu_gif_o_imagen" width="400">
+</p>
