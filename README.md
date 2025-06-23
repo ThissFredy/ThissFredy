@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="800" height="50" style="background: linear-gradient(to right, #1a1b27, #79d1d1, #1a1b27);">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/ThissFredy/ThissFredy/main/resources/hr.gif" width="600" />
 </p>
 
@@ -21,9 +17,6 @@
 - 💬 Ask me about **React, C#, and JavaScript**.
 - 📫 How to reach me: **ing.fredyzarate@outlook.com**
 
-<p align="center">
-  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="800" height="50" style="background: linear-gradient(to right, #1a1b27, #79d1d1, #1a1b27);">
-</p>
 
 ### <span style="color: #79d1d1;">My Tech Stack</span>
 
@@ -37,19 +30,11 @@
   <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="800" height="50" style="background: linear-gradient(to right, #1a1b27, #79d1d1, #1a1b27);">
-</p>
-
 ### <span style="color: #79d1d1;">My GitHub Stats</span>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThissFredy&show_icons=true&hide_border=true&title_color=79d1d1&icon_color=79d1d1&bg_color=1a1b27&text_color=c9d1d9" alt="ThissFredy's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThissFredy&layout=compact&hide_border=true&title_color=79d1d1&bg_color=1a1b27&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="800" height="50" style="background: linear-gradient(to right, #1a1b27, #79d1d1, #1a1b27);">
 </p>
 
 ### <span style="color: #79d1d1;">Connect with Me</span>
