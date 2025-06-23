@@ -40,7 +40,7 @@
 ### <span style="color: #79d1d1;">Connect with Me</span>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fredy-zarate/" target="_blank">
+  <a href="https://www.linkedin.com/in/fredy-zarate-29a825370/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </p>
